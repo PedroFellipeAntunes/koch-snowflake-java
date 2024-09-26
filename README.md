@@ -24,6 +24,6 @@ Based on this video from The Coding Train:
 
 -  Execute the `.jar` file.
 
-### TODO
+## TODO
 
 -  Add a raycast to display light reflection within the fractal.
