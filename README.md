@@ -1,6 +1,8 @@
 # Koch Snowflake Fractal Visualizer
 
 This project is a Java Swing application developed using Maven in NetBeans, designed to visualize the Koch snowflake fractal. The program provides an interactive interface for users to explore the fractal in different modes and manipulate its display.
+Based on this video from The Coding Train:
+    Coding Challenge #129: Koch Fractal Snowflake - https://www.youtube.com/watch?v=X8bXDKqMsXE
 
 ## Features
 
@@ -21,3 +23,7 @@ This project is a Java Swing application developed using Maven in NetBeans, desi
 ### Running the Application
 
 -  Execute the `.jar` file.
+
+### TODO
+
+-  Add a raycast to display light reflection within the fractal.
